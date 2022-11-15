@@ -3,6 +3,8 @@
 Here is the google drive necessary to access the raw data files. You'll need a Berkeley e-mail to access it.
 https://drive.google.com/drive/folders/1ilw979EfilQgJuqcI_L_t5Z_CwALAK_U?usp=sharing
 
+The "Simple Setup" document is a basic rundown of how to setup the equipment. If recreating this experiment, this setup can be followed, but users are encouraged to play with the settings to get the data they want.
+
 Download the data file you wish to use (Cs-137, Co-60). Open the associated Jupyter Notebook. You will have to adjust the file location to wherever you have saved the data file, but after that, just run the notebook.
 
 At the end of Cs-137 or Co-60 notebook, take note of the resolutions, FWHMs, and peaks.
